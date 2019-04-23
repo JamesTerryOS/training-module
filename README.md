@@ -6,3 +6,7 @@ James' readme for training module
 
 
 This issue is answered. Closing
+
+New training-additional branch created
+
+
